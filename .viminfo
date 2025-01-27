@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1737975787,,"wq!"
+|2,0,1737978228,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,28 @@
 # Registers:
 
 # File marks:
-'0  4  9  ~/my-web/Dockerfile
-|4,48,4,9,1737975787,"~/my-web/Dockerfile"
-'1  4  30  ~/Dockerfile
-|4,49,4,30,1737974256,"~/Dockerfile"
-'2  4  23  ~/my-web/handtime-html/Dockerfile
-|4,50,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+'0  1  9  ~/Dockerfile
+|4,48,1,9,1737978228,"~/Dockerfile"
+'1  4  9  ~/my-web/Dockerfile
+|4,49,4,9,1737975787,"~/my-web/Dockerfile"
+'2  4  30  ~/Dockerfile
+|4,50,4,30,1737974256,"~/Dockerfile"
+'3  4  30  ~/Dockerfile
+|4,51,4,30,1737974256,"~/Dockerfile"
+'4  4  23  ~/my-web/handtime-html/Dockerfile
+|4,52,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  9  ~/Dockerfile
+|4,39,1,9,1737978228,"~/Dockerfile"
+-'  4  30  ~/Dockerfile
+|4,39,4,30,1737978204,"~/Dockerfile"
 -'  4  9  ~/my-web/Dockerfile
 |4,39,4,9,1737975787,"~/my-web/Dockerfile"
+-'  4  9  ~/my-web/Dockerfile
+|4,39,4,9,1737975787,"~/my-web/Dockerfile"
+-'  1  0  ~/my-web/Dockerfile
+|4,39,1,0,1737975779,"~/my-web/Dockerfile"
 -'  1  0  ~/my-web/Dockerfile
 |4,39,1,0,1737975779,"~/my-web/Dockerfile"
 -'  4  30  ~/Dockerfile
@@ -53,6 +65,22 @@
 |4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
 -'  4  23  ~/my-web/handtime-html/Dockerfile
 |4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+-'  4  23  ~/my-web/handtime-html/Dockerfile
+|4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+-'  4  23  ~/my-web/handtime-html/Dockerfile
+|4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+-'  4  23  ~/my-web/handtime-html/Dockerfile
+|4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+-'  4  23  ~/my-web/handtime-html/Dockerfile
+|4,39,4,23,1737973999,"~/my-web/handtime-html/Dockerfile"
+-'  1  0  ~/my-web/handtime-html/Dockerfile
+|4,39,1,0,1737973485,"~/my-web/handtime-html/Dockerfile"
+-'  1  0  ~/my-web/handtime-html/Dockerfile
+|4,39,1,0,1737973485,"~/my-web/handtime-html/Dockerfile"
+-'  1  0  ~/my-web/handtime-html/Dockerfile
+|4,39,1,0,1737973485,"~/my-web/handtime-html/Dockerfile"
+-'  1  0  ~/my-web/handtime-html/Dockerfile
+|4,39,1,0,1737973485,"~/my-web/handtime-html/Dockerfile"
 -'  1  0  ~/my-web/handtime-html/Dockerfile
 |4,39,1,0,1737973485,"~/my-web/handtime-html/Dockerfile"
 -'  1  0  ~/my-web/handtime-html/Dockerfile
@@ -64,16 +92,17 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/Dockerfile
+	*	1737978226	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	4	21
+	+	1	9
+
 > ~/my-web/Dockerfile
 	*	1737975785	0
 	"	4	9
-
-> ~/Dockerfile
-	*	1737974254	0
-	"	4	30
-	^	4	31
-	.	4	31
-	+	4	31
 
 > ~/my-web/handtime-html/Dockerfile
 	*	1737973485	0

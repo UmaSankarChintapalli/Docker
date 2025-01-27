@@ -1,4 +1,4 @@
-FROM httpd
+FROM nginx
 MAINTAINER Sankar
 LABEL static website deploying using docker & jenkins
-COPY htdocs /usr/local/apache2/
+COPY htdocs /usr/share/nginx/html
